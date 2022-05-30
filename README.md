@@ -1,3 +1,3 @@
 🐶  TinDog 
 
-A website for dog 🐕 dogs to meet new and interesting dogs 🐩  nearby.
+A website for 🐕 dogs to meet new and interesting dogs 🐩  nearby.
